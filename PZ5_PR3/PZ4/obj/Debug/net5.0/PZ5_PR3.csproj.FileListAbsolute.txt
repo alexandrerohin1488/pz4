@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\PZ4\PZ4\bin\Debug\net5.0\PZ5_PR3.exe
+C:\Users\Admin\source\repos\PZ4\PZ4\bin\Debug\net5.0\PZ5_PR3.deps.json
+C:\Users\Admin\source\repos\PZ4\PZ4\bin\Debug\net5.0\PZ5_PR3.runtimeconfig.json
+C:\Users\Admin\source\repos\PZ4\PZ4\bin\Debug\net5.0\PZ5_PR3.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\PZ4\PZ4\bin\Debug\net5.0\PZ5_PR3.dll
+C:\Users\Admin\source\repos\PZ4\PZ4\bin\Debug\net5.0\ref\PZ5_PR3.dll
+C:\Users\Admin\source\repos\PZ4\PZ4\bin\Debug\net5.0\PZ5_PR3.pdb
+C:\Users\Admin\source\repos\PZ4\PZ4\obj\Debug\net5.0\PZ5_PR3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PZ4\PZ4\obj\Debug\net5.0\PZ5_PR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PZ4\PZ4\obj\Debug\net5.0\PZ5_PR3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PZ4\PZ4\obj\Debug\net5.0\PZ5_PR3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PZ4\PZ4\obj\Debug\net5.0\PZ5_PR3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PZ4\PZ4\obj\Debug\net5.0\PZ5_PR3.dll
+C:\Users\Admin\source\repos\PZ4\PZ4\obj\Debug\net5.0\ref\PZ5_PR3.dll
+C:\Users\Admin\source\repos\PZ4\PZ4\obj\Debug\net5.0\PZ5_PR3.pdb
+C:\Users\Admin\source\repos\PZ4\PZ4\obj\Debug\net5.0\PZ5_PR3.genruntimeconfig.cache
